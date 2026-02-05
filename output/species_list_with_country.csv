@@ -1,0 +1,523 @@
+sp,latin,type,continent,country
+canadensis,Canada,Country,North America,Canada
+oregonensis,Oregon,State,North America,USA
+coloradensis,Colorado,State,North America,USA
+alaskensis,Alaska,State,North America,USA
+arvensis,Field,Habitat,N/A,N/A
+nevadensis,Nevada,State,North America,USA
+pratensis,Meadow,Habitat,N/A,N/A
+vancouverensis,Vancouver Island,Island,North America,Canada
+quebecensis,Quebec,Province,North America,Canada
+utahensis,Utah,State,North America,USA
+idahoensis,Idaho,State,North America,USA
+yukonensis,Yukon,Territory,North America,Canada
+carolinensis,Carolina,Region,North America,USA
+sitchensis,Sitka,City,North America,USA
+columbiensis,British Columbia,Province,North America,Canada
+acadiensis,Acadia,Region,North America,Canada
+manitobensis,Manitoba,Province,North America,Canada
+michiganensis,Michigan,State,North America,USA
+cascadensis,Cascade Range,Region,North America,USA
+californiensis,California,State,North America,USA
+hortensis,Garden,Habitat,N/A,N/A
+virginiensis,Virginia,State,North America,USA
+iowensis,Iowa,State,North America,USA
+labradorensis,Labrador,Region,North America,Canada
+noveboracensis,New York,State,North America,USA
+ontarioensis,Ontario,Province,North America,Canada
+pugetensis,Puget Sound,Region,North America,USA
+alascensis,Alaska,State,North America,USA
+chinensis,China,Country,Asia,China
+churchillensis,Churchill,City,North America,Canada
+illinoensis,Illinois,State,North America,USA
+jamaicensis,Jamaica,Country,North America,Jamaica
+mainensis,Maine,State,North America,USA
+sinensis,China,Country,Asia,China
+albertensis,Alberta,Province,North America,Canada
+appalachensis,Appalachia,Region,North America,USA
+brasiliensis,Brazil,Country,South America,Brazil
+capensis,Cape of Good Hope,Region,Africa,South Africa
+dakotensis,Dakota,Region,North America,USA
+floridensis,Florida,State,North America,USA
+gaspensis,Gaspé,Region,North America,Canada
+missouriensis,Missouri,State,North America,USA
+montanensis,Montana,State,North America,USA
+ontariensis,Ontario,Province,North America,Canada
+tahoensis,Tahoe,Region,North America,USA
+wisconsinensis,Wisconsin,State,North America,USA
+appalachiensis,Appalachia,Region,North America,USA
+boulderensis,Boulder,City,North America,USA
+crestonensis,Creston,City,North America,Canada
+illinoiensis,Illinois,State,North America,USA
+laramiensis,Laramie,City,North America,USA
+maderensis,Madeira,Island,Africa,Portugal
+montereyensis,Monterey,City,North America,USA
+ochotensis,Sea of Okhotsk,Region,Asia,Russia
+ogilviensis,Ogilvie Mountains,Region,North America,Canada
+ohiensis,Ohio,State,North America,USA
+ohioensis,Ohio,State,North America,USA
+saskatchewanensis,Saskatchewan,Province,North America,Canada
+sierrensis,Sierra Nevada,Region,North America,USA
+surinamensis,Suriname,Country,South America,Suriname
+wyomingensis,Wyoming,State,North America,USA
+arizonensis,Arizona,State,North America,USA
+baffinensis,Baffin Island,Island,North America,Canada
+bakerensis,Baker,City,North America,USA
+bostoniensis,Boston,City,North America,USA
+brunswickensis,New Brunswick,Province,North America,Canada
+canadensisella,Canada,Country,North America,Canada
+carlottensis,Queen Charlotte Islands,Islands,North America,Canada
+ennishonensis,Inishowen,Region,Europe,Ireland
+illinoisensis,Illinois,State,North America,USA
+minnesotensis,Minnesota,State,North America,USA
+nemorensis,Grove,Habitat,N/A,N/A
+pugettensis,Puget Sound,Region,North America,USA
+rainierensis,Mount Rainier,Mountain,North America,USA
+washingtonensis,Washington,State,North America,USA
+abiskoensis,Abisko,City,Europe,Unknown
+abitibiensis,Abitibi,Region,North America,Canada
+alleghaniensis,Allegheny,Region,North America,USA
+allegheniensis,Allegheny,Region,North America,USA
+assiniboinensis,Assiniboine,Region,North America,Canada
+athabascensis,Athabasca,Region,North America,Canada
+bonariensis,Buenos Aires,City,South America,Argentina
+canariensis,Canary Islands,Islands,Africa,Spain
+caroliniensis,Carolina,Region,North America,USA
+catskillensis,Catskill Mountains,Region,North America,USA
+coloradoensis,Colorado,State,North America,USA
+couleensis,Coulee,Region,North America,USA
+cubensis,Cuba,Country,North America,Cuba
+dacotensis,Dakota,Region,North America,USA
+densissima,Dense,Description,N/A,N/A
+douglasensis,Douglas,Place,North America,Canada
+eboracensis,York,City,Europe,United Kingdom
+elaensis,Elaeis,Genus,Africa/South America,Multiple
+elbensis,Elbe,River,Europe,Germany
+ensis,Sword,Description,N/A,N/A
+flatheadensis,Flathead,Region,North America,USA
+gatineauensis,Gatineau,City,North America,Canada
+guatemalensis,Guatemala,Country,North America,Guatemala
+hampshirensis,Hampshire,Region,Europe,United Kingdom
+hollensis,Hollebeke,Place,Europe,Belgium
+huronensis,Huron,Region,North America,Canada
+huroniensis,Huron,Region,North America,Canada
+jasperensis,Jasper,City,North America,Canada
+kansensis,Kansas,State,North America,USA
+kluanensis,Kluane,Region,North America,Canada
+lenensis,Lena River,River,Asia,Russia
+mackenziensis,Mackenzie,Region,North America,Canada
+meduxnekeagensis,Meduxnekeag,River,North America,USA
+montevidensis,Montevideo,City,South America,Uruguay
+nebrascensis,Nebraska,State,North America,USA
+nebraskensis,Nebraska,State,North America,USA
+nepalensis,Nepal,Country,Asia,Nepal
+nootkatensis,Nootka Sound,Region,North America,Canada
+nordmanensis,Nordmann,Place,Europe,Georgia
+novaeboracensis,New York,State,North America,USA
+nutkaensis,Nootka Sound,Region,North America,Canada
+ojibwayensis,Ojibway,Region,North America,Canada
+pingreensis,Pingree,Place,North America,USA
+plattensis,Platte,River,North America,USA
+pribilofensis,Pribilof Islands,Islands,North America,USA
+quatsinoensis,Quatsino,Region,North America,Canada
+rowensis,Rowe,Place,North America,USA
+sablensis,Sable Island,Island,North America,Canada
+sachalinensis,Sakhalin,Island,Asia,Russia
+sandvicensis,Hawaii (Sandwich Is.),Islands,Oceania,USA
+sandwichensis,Hawaii (Sandwich Is.),Islands,Oceania,USA
+siskiyouensis,Siskiyou,Region,North America,USA
+sitkensis,Sitka,City,North America,USA
+spetsbergensis,Spitsbergen,Island,Europe,Norway
+spitsbergensis,Spitsbergen,Island,Europe,Norway
+syrtensis,Syrtis,Region,Africa,Libya
+tahquamenonensis,Tahquamenon,River,North America,USA
+tennesseensis,Tennessee,State,North America,USA
+texensis,Texas,State,North America,USA
+thulensis,Thule,Region,North America,Greenland
+tirolensis,Tyrol,Region,Europe,Austria
+whiteshellensis,Whiteshell,Region,North America,Canada
+winnipegensis,Winnipeg,City,North America,Canada
+absarokensis,Absaroka,Range,North America,USA
+adirondackensis,Adirondack,Region,North America,USA
+aimakensis,Aimak,Region,Asia,Afghanistan
+ajanensis,Ayan,City,Asia,Russia
+aklavikensis,Aklavik,City,North America,Canada
+alabamensis,Alabama,State,North America,USA
+alaskaensis,Alaska,State,North America,USA
+alaxensis,Alaska,State,North America,USA
+aleutensis,Aleutian Islands,Islands,North America,USA
+algeriensis,Algeria,Country,Africa,Algeria
+allagashensis,Allagash,Region,North America,USA
+alpinensis,Alpine,Habitat,N/A,N/A
+amaknakensis,Amaknak,Island,North America,USA
+ancocisconensis,Androscoggin,River,North America,USA
+antillensis,Antilles,Islands,North America,Caribbean
+aquacervensis,Watertown,City,North America,USA
+arbolensis,Arboles,City,North America,USA
+arvernensis,Auvergne,Region,Europe,France
+atkaensis,Atka,Island,North America,USA
+atkasukiensis,Atkasuk,City,North America,USA
+atramontensis,Black Mountain,Mountain,North America,USA
+auburnensis,Auburn,City,North America,USA
+avemensis,Avem,Description,N/A,N/A
+awemensis,Aweme,Place,North America,Canada
+backusensis,Backus,Place,North America,USA
+badensis,Baden,Region,Europe,Germany
+bajkalensis,Baikal,Lake,Asia,Russia
+baldensis,Monte Baldo,Mountain,Europe,Italy
+balsamconensis,Balsam Cone,Description,N/A,N/A
+baltimorensis,Baltimore,City,North America,USA
+bamfieldensis,Bamfield,City,North America,Canada
+banffensis,Banff,City,North America,Canada
+banksiensis,Banks Island,Island,North America,Canada
+bantriensis,Bantry,City,Europe,Ireland
+baptistensis,Baptiste,Place,North America,Canada
+barlowensis,Barlow,Place,North America,USA
+bartonensis,Barton,Place,North America,USA
+beaufortensis,Beaufort,Region,North America,USA
+behringensis,Bering,Region,North America,USA
+beringensis,Bering,Region,North America,USA
+beringiensis,Bering,Region,North America,USA
+bernaicensis,Bernay,City,Europe,France
+berolinensis,Berlin,City,Europe,Germany
+bicensis,Bic,Place,North America,Canada
+bitterrootensis,Bitterroot,Region,North America,USA
+blumenaviensis,Blumenau,City,South America,Brazil
+bodegensis,Bodega,City,North America,USA
+bonanzensis,Bonanza,Place,North America,USA
+boreasensis,Boreas,Mountain,North America,USA
+bowcrowensis,Bow-Crow,Forest,North America,Canada
+breadalbanensis,Breadalbane,Region,Europe,Canada
+buffaloensis,Buffalo,City,North America,USA
+caesariensis,New Jersey,State,North America,USA
+calculensis,Unknown locality,Unknown,N/A,Unknown
+calmariensis,Kalmar,City,Europe,Sweden
+camschatcensis,Kamchatka,Region,Asia,Russia
+cantabrigensis,Cambridge,City,Europe,United Kingdom
+caradocensis,Caradoc,Place,North America,Canada
+cascoensis,Casco Bay,Region,North America,USA
+castlegarensis,Castlegar,City,North America,Canada
+castrensis,Camp,Habitat,N/A,N/A
+catawbiensis,Catawba,Region,North America,USA
+centerensis,Center,Place,North America,USA
+cestrensis,Chester,City,Europe,USA
+ceylanensis,Sri Lanka (Ceylon),Country,Asia,Sri Lanka
+charensis,Chara,River,Asia,Russia
+charlottensis,Charlotte,City,North America,USA
+chartersensis,Charters,River,North America,USA
+cheboyganensis,Cheboygan,City,North America,USA
+chelanensis,Chelan,City,North America,USA
+cheyennensis,Cheyenne,City,North America,USA
+chicoutimiensis,Chicoutimi,City,North America,Canada
+chilensis,Chile,Country,South America,Chile
+chiliensis,Chile,Country,South America,Chile
+chilkatensis,Chilkat,Region,North America,USA
+chiloensis,Chiloe,Island,South America,Chile
+chimoensis,Fort Chimo (Kuujjuaq),City,North America,Canada
+chippewaensis,Chippewa,Region,North America,USA
+cilianensis,Cilicia,Region,Asia,Turkey
+cochisensis,Cochise,County,North America,USA
+columbiaensis,Columbia,Region,North America,USA
+colvillensis,Colville,Region,North America,USA
+comoxensis,Comox,City,North America,Canada
+concanensis,Concan,Region,North America,USA
+cordillerensis,Cordillera,Region,South America,Multiple
+corvallisensis,Corvallis,City,North America,USA
+costillensis,Costilla,Place,North America,USA
+cranberriensis,Cranberry,Place,North America,USA
+cranbrookensis,Cranbrook,City,North America,Canada
+crista-castrensis,Knight's Plume,Description,N/A,N/A
+danbyensis,Danby,Place,North America,USA
+dawsonensis,Dawson,City,North America,Canada
+delawarensis,Delaware,State,North America,USA
+deltaensis,Delta,Place,North America,USA
+devoniensis,Devon,Region,Europe,United Kingdom
+dominicensis,Dominica,Country,North America,Dominica
+dovreensis,Dovrefjell,Mountain,Europe,Norway
+dovrensis,Dovrefjell,Mountain,Europe,Norway
+droebachiensis,Drobak,City,Europe,Norway
+duckmountainensis,Duck Mountain,Region,North America,Canada
+egaliksensis,Igaliku,City,North America,Greenland
+eldoradoensis,Eldorado,Place,North America,USA
+ellesmerensis,Ellesmere Island,Island,North America,Canada
+endeavourensis,Endeavour,Place,Oceania,Canada
+enderbyensis,Enderby,Place,North America,Canada
+enoensis,Eno,River,North America,USA
+erigeronensis,Erigeron (fleabane genus),Genus,N/A,N/A
+erigerontis-canadensis,Canada,Country,North America,Canada
+fairfaxensis,Fairfax,City,North America,USA
+ferganensis,Fergana,Valley,Asia,Uzbekistan
+fladnizensis,Fladniz,Place,Europe,Austria
+forensis,Market/Forum,Habitat,N/A,N/A
+formicaensis,Ant,Description,N/A,N/A
+fraserensis,Fraser,River,North America,Canada
+fucensis,Juan de Fuca,Strait,North America,USA
+galweyensis,Galway,City,Europe,Ireland
+gaspeensis,Gaspé,Region,North America,Canada
+gaspesiensis,Gaspé,Region,North America,Canada
+gatosensis,Los Gatos,City,North America,USA
+geneseensis,Genesee,Region,North America,USA
+genevensis,Geneva,City,Europe,Switzerland
+gibraltarensis,Gibraltar,City,Europe,United Kingdom
+gigantensis,Gigantic/Large,Description,N/A,N/A
+gleniensis,Glen,Place,North America,USA
+gothoburgensis,Gothenburg,City,Europe,Sweden
+greigensis,Greig,Place,North America,Canada
+greylockensis,Mount Greylock,Mountain,North America,USA
+grosmorneensis,Gros Morne,Park,North America,Canada
+guadalupensis,Guadalupe,Island,North America,USA
+guyanensis,Guyana,Country,South America,Guyana
+haemensis,Haemus,Region,Europe,Bulgaria
+haidensis,Haida,Region,North America,Canada
+hakkodensis,Hakkoda,Mountain,Asia,Japan
+hawaiiensis,Hawaii,State,Oceania,USA
+haysensis,Hays,Place,North America,USA
+haywardensis,Hayward,City,North America,USA
+heatherensis,Heather,Place,North America,Canada
+herschelensis,Herschel Island,Island,North America,Canada
+highlandensis,Highland,Region,North America,United Kingdom
+highwoodensis,Highwood,Region,North America,Canada
+hockingensis,Hocking,County,North America,USA
+hohensis,Hoh River,River,North America,USA
+hondensis,Honda,City,South America,USA
+houghtonensis,Houghton,City,North America,USA
+humboldtensis,Humboldt,Region,North America,USA
+hupehensis,Hubei,Province,Asia,China
+idahensis,Idaho,State,North America,USA
+ilicis-canadensis,Canada,Country,North America,Canada
+ilvensis,Elba,Island,Europe,Italy
+indianensis,Indiana,State,North America,USA
+irkutensis,Irkutsk,City,Asia,Russia
+ithacaensis,Ithaca,City,North America,USA
+jaerensis,Jaeren,Region,Europe,Norway
+jenensis,Jena,City,Europe,Germany
+joernensis,Jorn,Place,Europe,Sweden
+jordanensis,Jordan,Country,Asia,USA
+josemitensis,Yosemite,Park,North America,USA
+kadiakensis,Kodiak,Island,North America,USA
+kananaskensis,Kananaskis,Region,North America,Canada
+kansiensis,Kansas,State,North America,USA
+kanzensis,Kansas,State,North America,USA
+katmaiensis,Katmai,Park,North America,USA
+kawiensis,Kawi,Mountain,Asia,Indonesia
+kenmorensis,Kenmore,Place,North America,USA
+kerguelensis,Kerguelen,Islands,Antarctica,France
+kibunensis,Kibune,Place,Asia,Japan
+kolaensis,Kola,Peninsula,Europe,Russia
+kooskooskiensis,Kooskooskie (Clearwater),River,North America,USA
+kootenaiensis,Kootenay,Region,North America,Canada
+kootenayensis,Kootenay,Region,North America,Canada
+kukriensis,Kukri,Hills,Antarctica,Antarctica
+kurilensis,Kuril,Islands,Asia,Russia
+laatokkaensis,Ladoga,Lake,Europe,Russia
+ladogensis,Ladoga,Lake,Europe,Russia
+lahontanensis,Lahontan,Region,North America,USA
+lanoraieensis,Lanoraie,Place,North America,Canada
+latahensis,Latah,County,North America,USA
+lawrencensis,Lawrence,City,North America,USA
+leavittensis,Leavitt,Place,North America,USA
+leechensis,Leech,Place,North America,USA
+lehighensis,Lehigh,Region,North America,USA
+lemingtonensis,Lemington,Place,North America,USA
+levidensis,Unknown locality,Unknown,N/A,Unknown
+lillooetensis,Lillooet,Place,North America,Canada
+lipsiensis,Leipzig,City,Europe,Germany
+loganensis,Logan,City,North America,USA
+lovensis,Loven,Place,Europe,Sweden
+lowensis,Unknown locality,Unknown,N/A,Unknown
+lulensis,Lule,River,Europe,Sweden
+lutensis,Mud/Clay,Habitat,N/A,N/A
+mackinacensis,Mackinac,Island,North America,USA
+mackinawensis,Mackinac,Island,North America,USA
+mackinleyensis,McKinley,Mountain,North America,USA
+macoupinensis,Macoupin,County,North America,USA
+madagascariensis,Madagascar,Country,Africa,Madagascar
+magdalensis,Magdalen Islands,Islands,North America,Canada
+mahluensis,Unknown locality,Unknown,N/A,Unknown
+manitobaensis,Manitoba,Province,North America,Canada
+marinensis,Marin,County,North America,USA
+marionensis,Marion,Place,North America,USA
+maritimensis,Maritime,Region,North America,Canada
+martisensis,Martis,Valley,North America,USA
+marysvillensis,Marysville,City,North America,USA
+mashiginensis,Mashigin,Fiord,Europe,Canada
+melitensis,Malta,Country,Europe,Malta
+miamensis,Miami,City,North America,USA
+midlandensis,Midland,City,North America,USA
+milwaukeensis,Milwaukee,City,North America,USA
+mississippiensis,Mississippi,State,North America,USA
+miyazakiensis,Miyazaki,City,Asia,Japan
+modocensis,Modoc,Region,North America,USA
+molallaensis,Molalla,City,North America,USA
+monroensis,Monroe,Place,North America,USA
+monspeliensis,Montpellier,City,Europe,France
+montrosensis,Montrose,Place,North America,USA
+mullettensis,Mullett,Lake,North America,USA
+muratensis,Murata,City,Asia,Japan
+muskingumensis,Muskingum,River,North America,USA
+muskokensis,Muskoka,Region,North America,Canada
+mustialaensis,Mustiala,Place,Europe,Finland
+nanaimensis,Nanaimo,City,North America,Canada
+nanceiensis,Nancy,City,Europe,France
+nantucketensis,Nantucket,Island,North America,USA
+narssaquensis,Narsaq,City,North America,Greenland
+natalensis,Natal,Region,Africa,South Africa
+nepigonensis,Nipigon,Lake,North America,Canada
+neuquenensis,Neuquen,Province,South America,Argentina
+newfoundlandensis,Newfoundland,Province,North America,Canada
+nicaeensis,Nice,City,Europe,France
+nidarosiensis,Nidaros (Trondheim),City,Europe,Norway
+nikrapensis,Unknown locality,Unknown,N/A,Unknown
+nisquallensis,Nisqually,Region,North America,USA
+nomensis,Nome,City,North America,USA
+nordeggensis,Nordegg,Place,North America,Canada
+novaroensis,Novara,City,Europe,Italy
+nunatakensis,Nunatak,Feature,N/A,N/A
+nutzotinensis,Nutzotin,Mountains,North America,USA
+occidensis,Western,Direction,N/A,N/A
+ochocensis,Ochoco,Mountains,North America,USA
+ogotorukensis,Ogotoruk,Creek,North America,USA
+okakensis,Okak,Place,North America,Canada
+okanaganensis,Okanagan,Region,North America,Canada
+ophirensis,Ophir,Place,North America,USA
+opiniconensis,Opinicon,Lake,North America,Canada
+orcadensis,Orkney,Islands,Europe,United Kingdom
+orilliaensis,Orillia,City,North America,Canada
+orizabensis,Orizaba,City,North America,Mexico
+oronoensis,Orono,City,North America,USA
+ottawensis,Ottawa,City,North America,Canada
+oulankaensis,Oulanka,Park,Europe,Finland
+oxfordensis,Oxford,City,Europe,United Kingdom
+ozarkensis,Ozark,Region,North America,USA
+pacificensis,Pacific,Ocean,Oceania,Pacific Ocean
+paddensis,Padden Lake,Lake,North America,USA
+panamensis,Panama,Country,North America,Panama
+paracascadensis,Para-Cascade,Region,North America,USA
+pascoensis,Pasco,City,North America,USA
+payettensis,Payette,Place,North America,USA
+pecosensis,Pecos,River,North America,USA
+peleensis,Pelee,Island,North America,Canada
+penniensis,Penn,Place,North America,USA
+pepinensis,Pepin,Lake,North America,USA
+petalumensis,Petaluma,City,North America,USA
+petitcapensis,Petit-Cap,Place,North America,Canada
+pingrensis,Pingree,Place,North America,USA
+pini-canadensis,Canada,Country,North America,Canada
+pisewensis,Pisew,Falls,North America,Canada
+pitkinensis,Pitkin,County,North America,USA
+placidensis,Lake Placid,City,North America,USA
+planensis,Plains,Habitat,N/A,N/A
+polonensis,Poland,Country,Europe,Poland
+ponojensis,Ponoy,River,Europe,Russia
+pontiacensis,Pontiac,Place,North America,USA
+prudhoensis,Prudhoe Bay,Place,North America,USA
+quelpaertensis,Jeju Island (Quelpaert),Island,Asia,South Korea
+quesnelensis,Quesnel,City,North America,Canada
+queticoensis,Quetico,Park,North America,Canada
+quiniaultensis,Quinault,Region,North America,USA
+rampartensis,Rampart,Place,North America,USA
+rankinensis,Rankin,Inlet,North America,Canada
+ravalliensis,Ravalli,County,North America,USA
+restorationensis,Restoration,Point,North America,USA
+revelstokensis,Revelstoke,City,North America,Canada
+rimensis,Cleft,Description,N/A,N/A
+ripariensis,Riparian,Habitat,N/A,N/A
+rivuloadamensis,Adams River,River,North America,Canada
+rivulopugnensis,Fighting River,River,North America,Canada
+rossittensis,Rossitten,City,Europe,Russia
+royalensis,Royal,Place,North America,USA
+rupinsulensis,Rock Island,Island,North America,USA
+saanichensis,Saanich,Region,North America,Canada
+sabulonensis,Sable Island,Island,North America,Canada
+sagehenensis,Sagehen,Creek,North America,USA
+salisburyensis,Salisbury,City,North America,USA
+salmitensis,Salmita,Mine,North America,Canada
+salmonensis,Salmon,River,North America,USA
+saltuensis,Forest,Habitat,N/A,N/A
+sandovalensis,Sandoval,County,North America,USA
+sanjuanensis,San Juan,Islands,North America,USA
+saratogensis,Saratoga,City,North America,USA
+saskensis,Saskatchewan,Province,North America,Canada
+seattlensis,Seattle,City,North America,USA
+semitensis,Path,Habitat,N/A,N/A
+senegalensis,Senegal,Country,Africa,Senegal
+setoniensis,Seton,Lake,North America,Canada
+severnensis,Severn,River,North America,Canada
+sheldonensis,Sheldon,Place,North America,USA
+shiloensis,Shilo,Place,North America,Canada
+shoshonensis,Shoshone,Region,North America,USA
+shuswapensis,Shuswap,Region,North America,Canada
+silvertoniensis,Silverton,City,North America,USA
+skirwithensis,Skirwith,Place,Europe,United Kingdom
+solensis,Sun,Description,N/A,N/A
+sonomensis,Sonoma,Region,North America,USA
+sonorensis,Sonora,State,North America,Mexico
+southamptonensis,Southampton Island,Island,North America,Canada
+sphagnumensis,Sphagnum Bog,Habitat,N/A,N/A
+stanfordensis,Stanford,City,North America,USA
+steppensis,Steppe,Habitat,N/A,N/A
+stevensis,Stevens,Place,North America,USA
+stordalensis,Stordalen,Place,Europe,Sweden
+sturgeonensis,Sturgeon,Place,North America,Canada
+superiorensis,Superior,Lake,North America,USA
+tacomaensis,Tacoma,City,North America,USA
+tahitiensis,Tahiti,Island,Oceania,France
+takanoshimensis,Takanoshima,Island,Asia,Japan
+tananensis,Tanana,River,North America,USA
+tatraensis,Tatra Mountains,Region,Europe,Poland/Slovakia
+tatrensis,Tatra Mountains,Region,Europe,Poland/Slovakia
+tepeitensis,Tepeite,Mountain,North America,Mexico
+teriolensis,Tyrol,Region,Europe,Austria
+tiftonensis,Tifton,City,North America,USA
+tillamookensis,Tillamook,City,North America,USA
+timiskamingensis,Timiskaming,Region,North America,Canada
+tiroliensis,Tyrol,Region,Europe,Austria
+tobiquensis,Tobique,River,North America,Canada
+tombstonensis,Tombstone,City,North America,USA
+tornensis,Torne,River,Europe,Sweden
+transberingiensis,Trans-Bering,Region,North America,USA
+trossingenensis,Trossingen,City,Europe,Germany
+tschutschensis,Chukchi,Region,Asia,Russia
+tundrensis,Tundra,Habitat,N/A,N/A
+tungusensis,Tunguska,Region,Asia,Russia
+tuolumnensis,Tuolumne,County,North America,USA
+umatillensis,Umatilla,County,North America,USA
+unakensis,Unaka,Mountains,North America,USA
+unalascensis,Unalaska,Island,North America,USA
+unalaschcensis,Unalaska,Island,North America,USA
+unalaschkensis,Unalaska,Island,North America,USA
+upsaliensis,Uppsala,City,Europe,Sweden
+urakawensis,Urakawa,City,Asia,Japan
+uralensis,Ural Mountains,Region,Europe,Russia
+ursopedensis,Bearpaw,Place,North America,USA
+usmaensis,Usma,Lake,Europe,Latvia
+valgenovensis,Unknown locality,Unknown,N/A,Unknown
+valtellinensis,Valtellina,Region,Europe,Italy
+vancouveriensis,Vancouver Island,Island,North America,Canada
+vanduzerensis,Van Duzer,Corridor,North America,USA
+varsaviensis,Warsaw,City,Europe,Poland
+vedderensis,Vedder,River,North America,Canada
+vernonensis,Vernon,City,North America,Canada
+veronensis,Verona,City,Europe,Italy
+viennensis,Vienna,City,Europe,Austria
+vierriensis,Vierzon,City,Europe,France
+viridensis,Green,Description,N/A,N/A
+volgensis,Volga,River,Europe,Russia
+vrangelensis,Wrangel,Island,Asia,Russia
+waponahkikensis,Waponahkik,Region,North America,Canada
+wawonaensis,Wawona,Place,North America,USA
+whitehorsensis,Whitehorse,City,North America,Canada
+whuljensis,Whulge (Puget Sound),Region,North America,USA
+whytensis,Whyte,Place,North America,Canada
+wilsonensis,Wilson,Place,North America,USA
+winnebagoensis,Winnebago,Place,North America,USA
+wrangeliensis,Wrangel,Island,Asia,Russia
+wulingensis,Wuling,Mountains,Asia,China
+yamaskanensis,Yamaska,River,North America,Canada
+yamaskensis,Yamaska,River,North America,Canada
+yohoensis,Yoho,Park,North America,Canada
+yuconensis,Yukon,Territory,North America,Canada
+yumanensis,Yuma,City,North America,USA
+zaisanensis,Zaysan,Lake,Asia,Kazakhstan
+zameriensis,Unknown locality,Unknown,N/A,Unknown
+zionensis,Zion,Park,North America,USA
