@@ -18,7 +18,7 @@ source("scripts/0.init.R")
 # https://www.wildspecies.ca/reports
 # includes some conservation status ranks
 # of the biggest effort in building a unified species list in Canada.
-wsc <- "data/Wild Species 2020 Data - Espèces sauvages 2020 Données.xlsx"
+wsc <- "data/Wild Species 2020 Data_Especes sauvages 2020 Donnees.xlsx"
 wsc_l <- read_xlsx(
   path = wsc,
   sheet = "Ranks - Rangs"

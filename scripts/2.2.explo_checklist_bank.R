@@ -15,8 +15,6 @@ source("scripts/0.init.R")
 
 
 ## ____________####
-## Charge données --------
-source("scripts/1.0read_wild_species_dat.R")
 
 # Télécharger des données
 # https://www.checklistbank.org/dataset/313811/download
@@ -63,18 +61,29 @@ cl_names <- read.csv(
 )
 names(sp_names) <- names(cl_names)
 
-sp_names |>
-  # Retirer les unranked
-  filter(V8 != "unranked") |>
-  # Sélectionne quelque colonnes
-  dplyr::select(V7:V16, V20:V31) |>
-  # En ordre
-  arrange(V9)
 
-sp_names |>
+sp_search <- sp_names |>
   # Retirer les unranked
   filter(dwc.taxonRank != "unranked") |>
   # Sélectionne quelque colonnes
   dplyr::select(dwc.taxonRank, dwc.scientificName) |>
   # En ordre
-  arrange(dwc.scientificName)
+  arrange(dwc.scientificName) |>
+  pull(dwc.scientificName)
+
+wait = FALSE
+for (sp_search_i in seq_along(sp_search)) {
+  message(sprintf("%d", sp_search_i))
+  # If wait == TRUE, wait x sec
+  if (wait) {
+    Sys.sleep(25)
+  } else {
+    # Wait for user input  
+    readline(paste("Appuyer sur entrer pour la prochaine espèce..."))
+    
+    browseURL(sprintf("https://www.google.com/search?q=%s", sp_search[sp_search_i]))
+    
+  }
+  
+  
+}

@@ -69,11 +69,19 @@ sum(nb_sp_qcensis$n)
 
 # Extraction des noms à valider selon le filtre spatial
 pattern_ensis <- "quebecensis|gaspensis|abitibiensis|gatineauensis|bicensis|chicoutimiensis|chimoensis|gaspeensis|gaspesiensis|lanoraieensis|yamaskanensis|yamaskensis"
+pattern_canadensis <- "canadensis"
 sp_qc <- wsc_l |>
   filter(grepl(
     pattern = pattern_ensis,
     x = wsc_l$`SCIENTIFIC NAME - NOM SCIENTIFIQUE`
-  ))
+  )) 
+
+sp_ca <- wsc_l |>
+  filter(grepl(
+    pattern = pattern_canadensis,
+    x = wsc_l$`SCIENTIFIC NAME - NOM SCIENTIFIQUE`
+  )) |> 
+  filter(grepl(pattern = "N1|N2|N3|X|H|U|NR", x = CA))
 
 sp_qc |>
   count(`TAXONOMIC GROUP - GROUPE TAXONOMIQUE`) |>
@@ -83,10 +91,18 @@ sp_search <- sp_qc |>
   count(`SCIENTIFIC NAME - NOM SCIENTIFIQUE`) |>
   pull(`SCIENTIFIC NAME - NOM SCIENTIFIQUE`)
 
+wait = FALSE
 for (sp_search_i in seq_along(sp_search)) {
   message(sprintf("%d", sp_search_i))
-  browseURL(sprintf("https://www.google.com/search?q=%s", sp_search[sp_search_i]))
-  Sys.sleep(10)
+  
+  # If wait == TRUE, wait x sec
+  if (wait) {
+    Sys.sleep(10)
+  } else {
+    # Wait for user input  
+    readline(paste("Appuyer sur entrer pour la prochaine espèce..."))
+  }   
+   browseURL(sprintf("https://www.google.com/search?q=%s", sp_search[sp_search_i]))
 }
 
 # Espèces endémiques de Galápagos, d'autre qui feraient rêvés en couleurs (avec )
