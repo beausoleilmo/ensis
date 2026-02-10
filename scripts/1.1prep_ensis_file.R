@@ -16,7 +16,7 @@ source("scripts/0.init.R")
 
 ## ____________####
 ## Charge données --------
-source("scripts/1.read_wild_species_dat.R")
+source("scripts/1.0read_wild_species_dat.R")
 
 # Voir tous les -ensis possible
 #
@@ -63,19 +63,23 @@ sp_names |>
   ) |>
   write.csv(file = "output/species_lst_can.csv", row.names = FALSE)
 
-
+# Read data with coordinates
 sp_spa <- read.csv(
   file = "output/species_lst_can_with_coords.csv"
 )
 
+# Read the administrative regions from Québec
 adminqc <- st_read("~/Github_proj/evologie/posts/guide_biodiv_qc/2025_05_24_Guide_biodiv_qc/data/partie_1/admin_geo/admin_reg_qc/mrc_s.gpkg")
 
+# Transformation pour avoir le même CRS
 sp_sf <- st_as_sf(x = sp_spa, coords = c("longitude", "latitude"), crs = 4326) |>
   st_transform(crs = st_crs(adminqc))
 
+# Filtre spatial pour ne garder QUE les points dans la région du Québec
 sp_sf_filt <- sp_sf |>
   st_filter(adminqc)
 
+# Extraction des épithètes spécifiques selon le filtre spatial
 sp_sf_filt |>
   pull(sp) |>
   paste0(collapse = "|")

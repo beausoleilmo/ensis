@@ -1,0 +1,1 @@
+dwc:taxonID	dwc:parentNameUsageID	dwc:acceptedNameUsageID	dwc:taxonomicStatus	dwc:taxonRank	dwc:scientificName	dwc:scientificNameAuthorship	dwc:kingdom	dwc:phylum	dwc:class	dwc:order	dwc:superfamily	dwc:family	dwc:subfamily	dwc:tribe	dwc:subtribe	dwc:genus	dwc:subgenus	dwc:higherClassification	clb:taxGroupFromName	clb:taxGroup

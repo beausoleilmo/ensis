@@ -1,117 +1,116 @@
-"sp","latin","type","continent","country","longitude","latitude"
-"canadensis","Canada","Country","North America","Canada","-95.712900","61.066600"
-"vancouverensis","Vancouver Island","Island","North America","Canada","-125.535300","49.660600"
-"quebecensis","Quebec","Province","North America","Canada","-71.208200","52.939900"
-"yukonensis","Yukon","Territory","North America","Canada","-135.056800","64.282300"
-"columbiensis","British Columbia","Province","North America","Canada","-124.845700","53.726700"
-"acadiensis","Acadia","Region","North America","Canada","-64.366700","45.100000"
-"manitobensis","Manitoba","Province","North America","Canada","-98.739300","53.760900"
-"labradorensis","Labrador","Region","North America","Canada","-61.391800","53.544400"
-"ontarioensis","Ontario","Province","North America","Canada","-85.323200","51.253800"
-"churchillensis","Churchill","City","North America","Canada","-94.169200","58.768400"
-"albertensis","Alberta","Province","North America","Canada","-114.071900","53.933300"
-"gaspensis","Gaspé","Region","North America","Canada","-64.483300","48.833300"
-"ontariensis","Ontario","Province","North America","Canada","-85.323200","51.253800"
-"crestonensis","Creston","City","North America","Canada","-116.512500","49.095600"
-"ogilviensis","Ogilvie Mountains","Region","North America","Canada","-138.500000","65.500000"
-"saskatchewanensis","Saskatchewan","Province","North America","Canada","-106.670200","52.939900"
-"baffinensis","Baffin Island","Island","North America","Canada","-72.000000","68.000000"
-"brunswickensis","New Brunswick","Province","North America","Canada","-66.461900","46.498300"
-"canadensisella","Canada","Country","North America","Canada","-95.712900","61.066600"
-"carlottensis","Queen Charlotte Islands","Islands","North America","Canada","-132.113600","53.251900"
-"abitibiensis","Abitibi","Region","North America","Canada","-79.016700","48.250000"
-"assiniboinensis","Assiniboine","Region","North America","Canada","-101.000000","49.700000"
-"athabascensis","Athabasca","Region","North America","Canada","-113.000000","57.000000"
-"douglasensis","Douglas","Place","North America","Canada","-122.800000","49.100000"
-"gatineauensis","Gatineau","City","North America","Canada","-75.713500","45.476500"
-"huronensis","Huron","Region","North America","Canada","-81.500000","44.500000"
-"huroniensis","Huron","Region","North America","Canada","-81.500000","44.500000"
-"jasperensis","Jasper","City","North America","Canada","-118.081400","52.873700"
-"kluanensis","Kluane","Region","North America","Canada","-138.000000","61.000000"
-"mackenziensis","Mackenzie","Region","North America","Canada","-123.000000","65.000000"
-"nootkatensis","Nootka Sound","Region","North America","Canada","-126.616700","49.583300"
-"nutkaensis","Nootka Sound","Region","North America","Canada","-126.616700","49.583300"
-"ojibwayensis","Ojibway","Region","North America","Canada","-84.000000","46.000000"
-"quatsinoensis","Quatsino","Region","North America","Canada","-127.616700","50.516700"
-"sablensis","Sable Island","Island","North America","Canada","-60.000000","43.933300"
-"whiteshellensis","Whiteshell","Region","North America","Canada","-95.216700","49.916700"
-"winnipegensis","Winnipeg","City","North America","Canada","-97.138400","49.895100"
-"aklavikensis","Aklavik","City","North America","Canada","-135.005800","68.221900"
-"awemensis","Aweme","Place","North America","Canada","-99.600000","49.700000"
-"bamfieldensis","Bamfield","City","North America","Canada","-125.133300","48.833300"
-"banffensis","Banff","City","North America","Canada","-115.570800","51.178400"
-"banksiensis","Banks Island","Island","North America","Canada","-121.000000","73.000000"
-"baptistensis","Baptiste","Place","North America","Canada","-115.500000","53.500000"
-"bicensis","Bic","Place","North America","Canada","-68.716700","48.416700"
-"bowcrowensis","Bow-Crow","Forest","North America","Canada","-114.500000","50.000000"
-"caradocensis","Caradoc","Place","North America","Canada","-81.500000","42.900000"
-"castlegarensis","Castlegar","City","North America","Canada","-117.664700","49.325700"
-"chicoutimiensis","Chicoutimi","City","North America","Canada","-71.056900","48.428400"
-"chimoensis","Fort Chimo (Kuujjuaq)","City","North America","Canada","-68.417500","58.100000"
-"comoxensis","Comox","City","North America","Canada","-124.938300","49.673300"
-"cranbrookensis","Cranbrook","City","North America","Canada","-115.769500","49.512000"
-"dawsonensis","Dawson","City","North America","Canada","-139.430300","64.060100"
-"duckmountainensis","Duck Mountain","Region","North America","Canada","-101.000000","51.500000"
-"ellesmerensis","Ellesmere Island","Island","North America","Canada","-83.000000","80.000000"
-"enderbyensis","Enderby","Place","North America","Canada","-119.141700","50.549700"
-"erigerontis-canadensis","Canada","Country","North America","Canada","-95.712900","61.066600"
-"fraserensis","Fraser","River","North America","Canada","-122.000000","50.000000"
-"gaspeensis","Gaspé","Region","North America","Canada","-64.483300","48.833300"
-"gaspesiensis","Gaspé","Region","North America","Canada","-64.483300","48.833300"
-"greigensis","Greig","Place","North America","Canada","-124.000000","50.500000"
-"grosmorneensis","Gros Morne","Park","North America","Canada","-57.666700","49.583300"
-"haidensis","Haida","Region","North America","Canada","-132.113600","53.251900"
-"heatherensis","Heather","Place","North America","Canada","-115.500000","51.000000"
-"herschelensis","Herschel Island","Island","North America","Canada","-138.900000","69.570000"
-"highwoodensis","Highwood","Region","North America","Canada","-114.500000","50.500000"
-"ilicis-canadensis","Canada","Country","North America","Canada","-95.712900","61.066600"
-"kananaskensis","Kananaskis","Region","North America","Canada","-115.000000","50.900000"
-"kootenaiensis","Kootenay","Region","North America","Canada","-116.000000","50.500000"
-"kootenayensis","Kootenay","Region","North America","Canada","-116.000000","50.500000"
-"lanoraieensis","Lanoraie","Place","North America","Canada","-73.216700","45.966700"
-"lillooetensis","Lillooet","Place","North America","Canada","-121.935600","50.685600"
-"magdalensis","Magdalen Islands","Islands","North America","Canada","-61.866700","47.416700"
-"manitobaensis","Manitoba","Province","North America","Canada","-98.739300","53.760900"
-"maritimensis","Maritime","Region","North America","Canada","-64.000000","46.000000"
-"muskokensis","Muskoka","Region","North America","Canada","-79.500000","45.100000"
-"nanaimensis","Nanaimo","City","North America","Canada","-123.940100","49.165900"
-"nepigonensis","Nipigon","Lake","North America","Canada","-88.266700","49.833300"
-"newfoundlandensis","Newfoundland","Province","North America","Canada","-55.581500","48.400100"
-"nordeggensis","Nordegg","Place","North America","Canada","-116.083300","52.466700"
-"okakensis","Okak","Place","North America","Canada","-62.500000","57.500000"
-"okanaganensis","Okanagan","Region","North America","Canada","-119.500000","50.000000"
-"opiniconensis","Opinicon","Lake","North America","Canada","-76.333300","44.566700"
-"orilliaensis","Orillia","City","North America","Canada","-79.420000","44.608600"
-"ottawensis","Ottawa","City","North America","Canada","-75.697200","45.421500"
-"peleensis","Pelee","Island","North America","Canada","-82.666700","41.900000"
-"petitcapensis","Petit-Cap","Place","North America","Canada","-61.000000","46.300000"
-"pini-canadensis","Canada","Country","North America","Canada","-95.712900","61.066600"
-"pisewensis","Pisew","Falls","North America","Canada","-99.000000","55.500000"
-"quesnelensis","Quesnel","City","North America","Canada","-122.492500","52.978400"
-"queticoensis","Quetico","Park","North America","Canada","-91.000000","48.500000"
-"rankinensis","Rankin","Inlet","North America","Canada","-92.108900","62.809700"
-"revelstokensis","Revelstoke","City","North America","Canada","-118.195800","50.998100"
-"rivuloadamensis","Adams River","River","North America","Canada","-119.500000","51.000000"
-"rivulopugnensis","Fighting River","River","North America","Canada","-95.000000","50.000000"
-"saanichensis","Saanich","Region","North America","Canada","-123.400000","48.500000"
-"sabulonensis","Sable Island","Island","North America","Canada","-60.000000","43.933300"
-"salmitensis","Salmita","Mine","North America","Canada","-108.200000","64.000000"
-"saskensis","Saskatchewan","Province","North America","Canada","-106.670200","52.939900"
-"setoniensis","Seton","Lake","North America","Canada","-122.000000","50.700000"
-"severnensis","Severn","River","North America","Canada","-87.666700","55.983300"
-"shiloensis","Shilo","Place","North America","Canada","-99.633300","49.816700"
-"shuswapensis","Shuswap","Region","North America","Canada","-119.000000","51.000000"
-"southamptonensis","Southampton Island","Island","North America","Canada","-84.000000","65.000000"
-"sturgeonensis","Sturgeon","Place","North America","Canada","-113.500000","53.500000"
-"timiskamingensis","Timiskaming","Region","North America","Canada","-79.500000","47.500000"
-"tobiquensis","Tobique","River","North America","Canada","-67.500000","46.833300"
-"vancouveriensis","Vancouver Island","Island","North America","Canada","-125.535300","49.660600"
-"vedderensis","Vedder","River","North America","Canada","-122.000000","49.100000"
-"vernonensis","Vernon","City","North America","Canada","-119.272000","50.267100"
-"waponahkikensis","Waponahkik","Region","North America","Canada","-67.500000","46.000000"
-"whitehorsensis","Whitehorse","City","North America","Canada","-135.056800","60.721200"
-"whytensis","Whyte","Place","North America","Canada","-116.000000","51.500000"
-"yamaskanensis","Yamaska","River","North America","Canada","-72.916700","45.766700"
-"yamaskensis","Yamaska","River","North America","Canada","-72.916700","45.766700"
-"yohoensis","Yoho","Park","North America","Canada","-116.500000","51.400000"
-"yuconensis","Yukon","Territory","North America","Canada","-135.056800","64.282300"
+sp,latin,type,continent,country,longitude,latitude
+canadensis,Canada,Country,North America,Canada,-95.712900,61.066600
+vancouverensis,Vancouver Island,Island,North America,Canada,-125.535300,49.660600
+quebecensis,Quebec,Province,North America,Canada,-71.208200,52.939900
+yukonensis,Yukon,Territory,North America,Canada,-135.056800,64.282300
+columbiensis,British Columbia,Province,North America,Canada,-124.845700,53.726700
+acadiensis,Acadia,Region,North America,Canada,-64.366700,45.100000
+manitobensis,Manitoba,Province,North America,Canada,-98.739300,53.760900
+labradorensis,Labrador,Region,North America,Canada,-61.391800,53.544400
+ontarioensis,Ontario,Province,North America,Canada,-85.323200,51.253800
+churchillensis,Churchill,City,North America,Canada,-94.169200,58.768400
+albertensis,Alberta,Province,North America,Canada,-114.071900,53.933300
+gaspensis,Gaspé,Region,North America,Canada,-64.483300,48.833300
+ontariensis,Ontario,Province,North America,Canada,-85.323200,51.253800
+crestonensis,Creston,City,North America,Canada,-116.512500,49.095600
+ogilviensis,Ogilvie Mountains,Region,North America,Canada,-138.500000,65.500000
+saskatchewanensis,Saskatchewan,Province,North America,Canada,-106.670200,52.939900
+baffinensis,Baffin Island,Island,North America,Canada,-72.000000,68.000000
+brunswickensis,New Brunswick,Province,North America,Canada,-66.461900,46.498300
+canadensisella,Canada,Country,North America,Canada,-95.712900,61.066600
+carlottensis,Queen Charlotte Islands,Islands,North America,Canada,-132.113600,53.251900
+abitibiensis,Abitibi,Region,North America,Canada,-79.016700,48.250000
+assiniboinensis,Assiniboine,Region,North America,Canada,-101.000000,49.700000
+athabascensis,Athabasca,Region,North America,Canada,-113.000000,57.000000
+douglasensis,Douglas,Place,North America,Canada,-122.800000,49.100000
+gatineauensis,Gatineau,City,North America,Canada,-75.713500,45.476500
+huronensis,Huron,Region,North America,Canada,-81.500000,44.500000
+huroniensis,Huron,Region,North America,Canada,-81.500000,44.500000
+jasperensis,Jasper,City,North America,Canada,-118.081400,52.873700
+kluanensis,Kluane,Region,North America,Canada,-138.000000,61.000000
+mackenziensis,Mackenzie,Region,North America,Canada,-123.000000,65.000000
+nootkatensis,Nootka Sound,Region,North America,Canada,-126.616700,49.583300
+nutkaensis,Nootka Sound,Region,North America,Canada,-126.616700,49.583300
+ojibwayensis,Ojibway,Region,North America,Canada,-84.000000,46.000000
+quatsinoensis,Quatsino,Region,North America,Canada,-127.616700,50.516700
+sablensis,Sable Island,Island,North America,Canada,-60.000000,43.933300
+whiteshellensis,Whiteshell,Region,North America,Canada,-95.216700,49.916700
+winnipegensis,Winnipeg,City,North America,Canada,-97.138400,49.895100
+aklavikensis,Aklavik,City,North America,Canada,-135.005800,68.221900
+awemensis,Aweme,Place,North America,Canada,-99.600000,49.700000
+bamfieldensis,Bamfield,City,North America,Canada,-125.133300,48.833300
+banffensis,Banff,City,North America,Canada,-115.570800,51.178400
+banksiensis,Banks Island,Island,North America,Canada,-121.000000,73.000000
+baptistensis,Baptiste,Place,North America,Canada,-115.500000,53.500000
+bicensis,Bic,Place,North America,Canada,-68.716700,48.416700
+bowcrowensis,Bow-Crow,Forest,North America,Canada,-114.500000,50.000000
+caradocensis,Caradoc,Place,North America,Canada,-81.500000,42.900000
+castlegarensis,Castlegar,City,North America,Canada,-117.664700,49.325700
+chicoutimiensis,Chicoutimi,City,North America,Canada,-71.056900,48.428400
+chimoensis,Fort Chimo (Kuujjuaq),City,North America,Canada,-68.417500,58.100000
+comoxensis,Comox,City,North America,Canada,-124.938300,49.673300
+cranbrookensis,Cranbrook,City,North America,Canada,-115.769500,49.512000
+dawsonensis,Dawson,City,North America,Canada,-139.430300,64.060100
+duckmountainensis,Duck Mountain,Region,North America,Canada,-101.000000,51.500000
+ellesmerensis,Ellesmere Island,Island,North America,Canada,-83.000000,80.000000
+enderbyensis,Enderby,Place,North America,Canada,-119.141700,50.549700
+erigerontis-canadensis,Canada,Country,North America,Canada,-95.712900,61.066600
+fraserensis,Fraser,River,North America,Canada,-122.000000,50.000000
+gaspeensis,Gaspé,Region,North America,Canada,-64.483300,48.833300
+gaspesiensis,Gaspé,Region,North America,Canada,-64.483300,48.833300
+greigensis,Greig,Place,North America,Canada,-124.000000,50.500000
+grosmorneensis,Gros Morne,Park,North America,Canada,-57.666700,49.583300
+haidensis,Haida,Region,North America,Canada,-132.113600,53.251900
+heatherensis,Heather,Place,North America,Canada,-115.500000,51.000000
+herschelensis,Herschel Island,Island,North America,Canada,-138.900000,69.570000
+highwoodensis,Highwood,Region,North America,Canada,-114.500000,50.500000
+ilicis-canadensis,Canada,Country,North America,Canada,-95.712900,61.066600
+kananaskensis,Kananaskis,Region,North America,Canada,-115.000000,50.900000
+kootenaiensis,Kootenay,Region,North America,Canada,-116.000000,50.500000
+kootenayensis,Kootenay,Region,North America,Canada,-116.000000,50.500000
+lanoraieensis,Lanoraie,Place,North America,Canada,-73.216700,45.966700
+lillooetensis,Lillooet,Place,North America,Canada,-121.935600,50.685600
+manitobaensis,Manitoba,Province,North America,Canada,-98.739300,53.760900
+maritimensis,Maritime,Region,North America,Canada,-64.000000,46.000000
+muskokensis,Muskoka,Region,North America,Canada,-79.500000,45.100000
+nanaimensis,Nanaimo,City,North America,Canada,-123.940100,49.165900
+nepigonensis,Nipigon,Lake,North America,Canada,-88.266700,49.833300
+newfoundlandensis,Newfoundland,Province,North America,Canada,-55.581500,48.400100
+nordeggensis,Nordegg,Place,North America,Canada,-116.083300,52.466700
+okakensis,Okak,Place,North America,Canada,-62.500000,57.500000
+okanaganensis,Okanagan,Region,North America,Canada,-119.500000,50.000000
+opiniconensis,Opinicon,Lake,North America,Canada,-76.333300,44.566700
+orilliaensis,Orillia,City,North America,Canada,-79.420000,44.608600
+ottawensis,Ottawa,City,North America,Canada,-75.697200,45.421500
+peleensis,Pelee,Island,North America,Canada,-82.666700,41.900000
+petitcapensis,Petit-Cap,Place,North America,Canada,-61.000000,46.300000
+pini-canadensis,Canada,Country,North America,Canada,-95.712900,61.066600
+pisewensis,Pisew,Falls,North America,Canada,-99.000000,55.500000
+quesnelensis,Quesnel,City,North America,Canada,-122.492500,52.978400
+queticoensis,Quetico,Park,North America,Canada,-91.000000,48.500000
+rankinensis,Rankin,Inlet,North America,Canada,-92.108900,62.809700
+revelstokensis,Revelstoke,City,North America,Canada,-118.195800,50.998100
+rivuloadamensis,Adams River,River,North America,Canada,-119.500000,51.000000
+rivulopugnensis,Fighting River,River,North America,Canada,-95.000000,50.000000
+saanichensis,Saanich,Region,North America,Canada,-123.400000,48.500000
+sabulonensis,Sable Island,Island,North America,Canada,-60.000000,43.933300
+salmitensis,Salmita,Mine,North America,Canada,-108.200000,64.000000
+saskensis,Saskatchewan,Province,North America,Canada,-106.670200,52.939900
+setoniensis,Seton,Lake,North America,Canada,-122.000000,50.700000
+severnensis,Severn,River,North America,Canada,-87.666700,55.983300
+shiloensis,Shilo,Place,North America,Canada,-99.633300,49.816700
+shuswapensis,Shuswap,Region,North America,Canada,-119.000000,51.000000
+southamptonensis,Southampton Island,Island,North America,Canada,-84.000000,65.000000
+sturgeonensis,Sturgeon,Place,North America,Canada,-113.500000,53.500000
+timiskamingensis,Timiskaming,Region,North America,Canada,-79.500000,47.500000
+tobiquensis,Tobique,River,North America,Canada,-67.500000,46.833300
+vancouveriensis,Vancouver Island,Island,North America,Canada,-125.535300,49.660600
+vedderensis,Vedder,River,North America,Canada,-122.000000,49.100000
+vernonensis,Vernon,City,North America,Canada,-119.272000,50.267100
+waponahkikensis,Waponahkik,Region,North America,Canada,-67.500000,46.000000
+whitehorsensis,Whitehorse,City,North America,Canada,-135.056800,60.721200
+whytensis,Whyte,Place,North America,Canada,-116.000000,51.500000
+yamaskanensis,Yamaska,River,North America,Canada,-72.916700,45.766700
+yamaskensis,Yamaska,River,North America,Canada,-72.916700,45.766700
+yohoensis,Yoho,Park,North America,Canada,-116.500000,51.400000
+yuconensis,Yukon,Territory,North America,Canada,-135.056800,64.282300
